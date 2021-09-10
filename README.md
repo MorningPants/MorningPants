@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andy Hopkins, aka @MorningPants
+- 👀 I’m interested in learning all the things!  Web Development, Software Development, and beyond!
+- 🌱 I’m currently learning C# and .NET 6, CSS animations and UX/UI 
+- 💞️ I’m looking to collaborate on learning the basics
+- 📫 Reach me at morningpants@gmail.com or at www.hopkinsandy.com!
