@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Andy Hopkins, aka @MorningPants
-- 👀 I’m interested in learning all the things!  Web Development, Software Development, and beyond!
-- 🌱 I’m currently learning Node.js and Svelte.
-- 💞️ I’m looking to collaborate on learning the basics
-- 📫 Reach me at morningpants@gmail.com or at www.hopkinsandy.com!
+I’m Andy Hopkins, aka MorningPants
+
+Software Engineer, Fullstack Web Developer, Programming mentor and instructor
+
+Favorite tech: F# and Svelte
+
+Send me a message at morningpants@gmail.com 😄
