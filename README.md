@@ -1,7 +1,5 @@
-I’m Andy Hopkins, aka MorningPants
+My name is Andy Hopkins.
 
-Software Engineer, Fullstack Web Developer, Programming mentor and instructor
+I fix bugs and implement features, resolve issues and write documentation.
 
-Favorite tech: F# and Svelte
-
-Send me a message at morningpants@gmail.com 😄
+I enjoy learning all things tech, teaching what I know to other students, and spreading the word that Svelte is a vastly superior framework to React.
